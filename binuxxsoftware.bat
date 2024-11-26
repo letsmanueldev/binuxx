@@ -3,7 +3,7 @@ title Binuxx CLI
 color 0a
 
 :: Current Binuxx version
-set BINUX_VERSION=1.0.1
+set BINUX_VERSION=1.0.2
 
 :: Hidden user database and update info
 set "USER_DB=%~dp0.users.dat"
